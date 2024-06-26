@@ -1,0 +1,10 @@
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\DEP_SPDLOG-PREFIX\SRC\DEP_SPDLOG-BUILD\CMAKEFILES\5E6D16EAFDD5B9598BAA7B0CF5290419\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog" "-BC:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-build/spdlog.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

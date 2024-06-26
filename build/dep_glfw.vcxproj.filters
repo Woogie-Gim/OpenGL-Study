@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\52d705932a1b21fc064670c200e64c92\dep_glfw-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\5b4fa57983fe4d005d5cb849ac05b25c\dep_glfw-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\378668ccd9c23a44122149131c951c4d\dep_glfw.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\CMAKE_PROJECT_EXAMPLE\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\CMakeFiles\dep_glfw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4041706E-6013-32E5-A57C-4F6AC824339C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

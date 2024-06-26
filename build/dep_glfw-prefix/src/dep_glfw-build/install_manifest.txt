@@ -1,0 +1,8 @@
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/include/GLFW/glfw3.h
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/include/GLFW/glfw3native.h
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/lib/cmake/glfw3/glfw3Config.cmake
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/lib/cmake/glfw3/glfw3Targets.cmake
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/lib/cmake/glfw3/glfw3Targets-debug.cmake
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/lib/pkgconfig/glfw3.pc
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install/lib/glfw3.lib

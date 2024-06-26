@@ -1,0 +1,6 @@
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/uninstall.dir
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/INSTALL.dir

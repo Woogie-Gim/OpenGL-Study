@@ -1,0 +1,156 @@
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/tmp/dep_spdlog-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-DOWNLOAD.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/tmp/dep_spdlog-gitclone.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-UPDATE.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src\dep_spdlog"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-update"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-PATCH.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src\dep_spdlog"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-CONFIGURE.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src\dep_spdlog-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" "-DCMAKE_INSTALL_PREFIX=C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install" "-GVisual Studio 17 2022" -Awin32 -Thost=x86 "-DCMAKE_GENERATOR_INSTANCE:INTERNAL=D:/Visual Studio 2022" -S "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog" -B "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-build"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-BUILD.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src\dep_spdlog-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" --build . --config Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-INSTALL.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src\dep_spdlog-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" --build . --config Debug --target install
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\E394DD199E02484F8DE588249F7777CF\DEP_SPDLOG-TEST.RULE
+setlocal
+cd "C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep_spdlog-prefix\src\dep_spdlog-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\5B4FA57983FE4D005D5CB849AC05B25C\DEP_SPDLOG-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/Debug/dep_spdlog-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\CMAKEFILES\378668CCD9C23A44122149131C951C4D\DEP_SPDLOG.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\CMAKE_PROJECT_EXAMPLE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/CMAKE_PROJECT_EXAMPLE" "-BC:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build" --check-stamp-file "C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

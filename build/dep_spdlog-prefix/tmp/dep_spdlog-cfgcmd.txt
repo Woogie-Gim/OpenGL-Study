@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_INSTALL_PREFIX=C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/install;-GVisual Studio 17 2022;-Awin32;-Thost=x86;-DCMAKE_GENERATOR_INSTANCE:INTERNAL=D:/Visual Studio 2022;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

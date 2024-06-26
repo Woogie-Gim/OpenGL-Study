@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pc\Desktop\새 폴더\취업\SSAFY\OpenGL-Study\build\dep-spdlog-prefix\src\dep-spdlog-build\CMakeFiles\7cf79a6565755749edee5a35fee94d07\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3342AC0C-7523-38DE-8C3D-393588D8A4E2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

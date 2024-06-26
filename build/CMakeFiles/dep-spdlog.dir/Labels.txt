@@ -1,0 +1,14 @@
+# Target labels
+ dep-spdlog
+# Source files and their labels
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/dep-spdlog
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/378668ccd9c23a44122149131c951c4d/dep-spdlog.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/5b4fa57983fe4d005d5cb849ac05b25c/dep-spdlog-complete.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-build.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-configure.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-download.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-install.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-mkdir.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-patch.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-test.rule
+C:/Users/pc/Desktop/새 폴더/취업/SSAFY/OpenGL-Study/build/CMakeFiles/14436514769e4192641ed9e8ab512853/dep-spdlog-update.rule

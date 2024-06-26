@@ -1,0 +1,10 @@
+^C:\USERS\PC\DESKTOP\새 폴더\취업\SSAFY\OPENGL-STUDY\BUILD\DEP-SPDLOG-PREFIX\SRC\DEP-SPDLOG-BUILD\CMAKEFILES\2B616D3A2BEE71C9D5F5C8E32B8F187F\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/dep_glfw"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/378668ccd9c23a44122149131c951c4d/dep_glfw.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/5b4fa57983fe4d005d5cb849ac05b25c/dep_glfw-complete.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-build.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-configure.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-install.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-patch.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-test.rule"
+		},
+		{
+			"file" : "C:/Users/pc/Desktop/\uc0c8 \ud3f4\ub354/\ucde8\uc5c5/SSAFY/OpenGL-Study/build/CMakeFiles/52d705932a1b21fc064670c200e64c92/dep_glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glfw"
+		],
+		"name" : "dep_glfw"
+	}
+}
